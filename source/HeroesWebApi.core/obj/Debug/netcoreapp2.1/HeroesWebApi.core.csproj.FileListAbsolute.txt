@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.deps.json
+C:\Users\Lenovo\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.dll
+C:\Users\Lenovo\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.pdb
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.AssemblyInfo.cs
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.dll
+C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.pdb

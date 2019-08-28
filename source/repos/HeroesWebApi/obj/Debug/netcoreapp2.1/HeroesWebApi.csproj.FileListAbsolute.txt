@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.deps.json
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.dll
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.pdb
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.core.dll
+C:\Users\Lenovo\source\repos\HeroesWebApi\bin\Debug\netcoreapp2.1\HeroesWebApi.core.pdb
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.dll
+C:\Users\Lenovo\source\repos\HeroesWebApi\obj\Debug\netcoreapp2.1\HeroesWebApi.pdb
