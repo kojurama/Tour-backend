@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj",
+      "projectUniqueName": "C:\\Projects\\Tour-Backend\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj",
       "projectName": "HeroesWebApi.core",
-      "projectPath": "C:\\Users\\Lenovo\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj",
+      "projectPath": "C:\\Projects\\Tour-Backend\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\HeroesWebApi.core\\obj\\",
+      "outputPath": "C:\\Projects\\Tour-Backend\\source\\HeroesWebApi.core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11523,11 +11523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\HeroesWebApi\\HeroesWebApi.csproj",
+      "projectUniqueName": "C:\\Projects\\Tour-Backend\\source\\repos\\HeroesWebApi\\HeroesWebApi.csproj",
       "projectName": "HeroesWebApi",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\HeroesWebApi\\HeroesWebApi.csproj",
+      "projectPath": "C:\\Projects\\Tour-Backend\\source\\repos\\HeroesWebApi\\HeroesWebApi.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\HeroesWebApi\\obj\\",
+      "outputPath": "C:\\Projects\\Tour-Backend\\source\\repos\\HeroesWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11546,8 +11546,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Lenovo\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj"
+            "C:\\Projects\\Tour-Backend\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj": {
+              "projectPath": "C:\\Projects\\Tour-Backend\\source\\HeroesWebApi.core\\HeroesWebApi.core.csproj"
             }
           }
         }

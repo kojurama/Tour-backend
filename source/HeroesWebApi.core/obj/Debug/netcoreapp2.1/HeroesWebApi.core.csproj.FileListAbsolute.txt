@@ -7,3 +7,12 @@ C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.co
 C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.AssemblyInfo.cs
 C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.dll
 C:\Users\Lenovo\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.pdb
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.deps.json
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.dll
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\bin\Debug\netcoreapp2.1\HeroesWebApi.core.pdb
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.csprojAssemblyReference.cache
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.csproj.CoreCompileInputs.cache
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.AssemblyInfoInputs.cache
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.AssemblyInfo.cs
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.dll
+C:\Projects\Tour-Backend\source\HeroesWebApi.core\obj\Debug\netcoreapp2.1\HeroesWebApi.core.pdb
