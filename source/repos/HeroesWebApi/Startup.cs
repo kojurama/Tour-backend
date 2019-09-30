@@ -15,6 +15,8 @@ using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using HeroesWebApi.Token_Classes;
+using HeroesWebApi.Interfaces;
 
 namespace HeroesWebApi
 {
@@ -32,10 +34,12 @@ namespace HeroesWebApi
         {
             services.AddTransient<IValuesRepository, ValuesRepository>();
             services.AddTransient<IValuesService, ValuesService>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            
+
             // JWT management stuff
             services.Configure<TokenManagement>(Configuration.GetSection("tokenManagement"));
+            services.AddScoped<IUserManagementService, UserManagementService>();
             var token = Configuration.GetSection("tokenManagement").Get<TokenManagement>();
             var secret = Encoding.ASCII.GetBytes(token.Secret);
 
@@ -50,13 +54,13 @@ namespace HeroesWebApi
                 x.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(token.Secret)),
-                    ValidIssuer = token.Issuer,
-                    ValidAudience = token.Audience,
+                    IssuerSigningKey = new SymmetricSecurityKey(secret),
                     ValidateIssuer = false,
                     ValidateAudience = false
                 };
             });
+
+            services.AddScoped<IAuthenticateService, TokenAuthenticationService>();
 
           }
 
